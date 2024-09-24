@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
 
-public class StonePaperScissorsGame extends JFrame implements ActionListener {
+public class Main extends JFrame implements ActionListener {
 
     private JLabel resultLabel;
     private JButton stoneButton, paperButton, scissorsButton;
